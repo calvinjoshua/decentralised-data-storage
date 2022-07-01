@@ -1,0 +1,31 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production  git push https://calvinjoshua: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@github.com:calvinjoshua/Immutable-records-v1.0.0-SmartContract.git git config --global user.name "calvinjoshua" calvinjoshua1@gmail.com  git config --global user.email "calvinjoshua1@gmail.com"
+/build
+
+# misc pat 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 //git push https://calvinjoshua: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@github.com:calvinjoshua/Immutable-records-v1.0.0-SmartContract.git
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+#git add .
+#git commit -m "v1"
+#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
+#
+#
+
+#git push https://calvinjoshua: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@github.com:calvinjoshua/frontendadmin.git git config --global user.name "calvinjoshua" calvinjoshua1@gmail.com  git config --global user.email "calvinjoshua1@gmail.com"

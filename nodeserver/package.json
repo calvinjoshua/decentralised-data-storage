@@ -1,0 +1,21 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cors": "^2.8.5",
+    "ethereum-input-data-decoder": "^0.3.5",
+    "ethereumjs-tx": "^2.1.2",
+    "express": "^4.17.1",
+    "ipfs-only-hash": "^4.0.0",
+    "web3": "^1.6.1"
+  }
+}
